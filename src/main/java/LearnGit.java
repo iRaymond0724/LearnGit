@@ -6,5 +6,6 @@ public class LearnGit {
         System.out.println("Hello World123");
         System.out.println("make conflict123");
         System.out.println("make conflict");
+        System.out.println("make conflict again");
     }
 }
